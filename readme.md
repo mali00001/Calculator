@@ -14,3 +14,13 @@ Assembly language.
             Finally, the goal of  work is to improve the speed of the simple calculator in such a way that it will maximize the hardware needed and reduce the cost and complexity of the machine. This will help us to enjoy the anticipated high speed of our calculator.
 Basically, calculator in assembly language will help us to understand the different variety of commands , instructions and help us to gain intellectual knowledge through learning .
 This project allows to solve complicated problems quickly and in an efficient manner. Additionally it can reduce the problem to simpler tasks and allow the user to devote more time in understanding the problem.
+
+
+
+
+<img src="https://github.com/mali00001/Calculator/blob/main/Picture1.png" width="900">
+<img src="https://github.com/mali00001/Calculator/blob/main/Picture2.png" width="900">
+<img src="https://github.com/mali00001/Calculator/blob/main/Picture3.png" width="900">
+<img src="https://github.com/mali00001/Calculator/blob/main/Picture4.png" width="900">
+<img src="https://github.com/mali00001/Calculator/blob/main/Picture5.png" width="900">
+<img src="https://github.com/mali00001/Calculator/blob/main/Picture6.png" width="900">
